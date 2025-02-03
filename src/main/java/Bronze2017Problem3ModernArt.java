@@ -2,6 +2,9 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
+// https://usaco.org/index.php?page=viewproblem2&cpid=737
+// https://usaco.guide/problems/usaco-737-modern-art/solution
+
 public class Bronze2017Problem3ModernArt {
 
     public static void main(String[] args) throws FileNotFoundException {
